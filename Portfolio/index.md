@@ -21,7 +21,6 @@
         </ul>
       </nav>
     </header>
-
     <div class="containerPage" id="about">
       <div class="title">
         <h1>Fatoş Varol</h1>
